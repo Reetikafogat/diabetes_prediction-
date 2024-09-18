@@ -1,1 +1,1 @@
-# diabetes_git
+# diabetes_prediction
