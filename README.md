@@ -4,6 +4,7 @@ The goal? To make a simple tool that can assist in early-stage diagnosis and awa
 
 📊 What the Model Does
 The model takes in a few health-related inputs like:
+
 ♦️BMI (Body Mass Index)
 ♦️Blood Pressure
 ♦️Cholesterol♦
@@ -13,6 +14,7 @@ Based on this, it predicts whether a person is diabetic or not.
 
 🛠️ Tools & Libraries Used
 To make this work, I used:
+
 ♦️Python (the brain behind it all)
 ♦️Pandas and NumPy for handling and cleaning the data
 ♦️Matplotlib for visualizing patterns and insights
@@ -20,6 +22,7 @@ To make this work, I used:
 
 🤖 Machine Learning Approach
 I tried out three different models:
+
 ♦️Logistic Regression
 ♦️Decision Tree
 ♦️Random Forest
